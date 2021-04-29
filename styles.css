@@ -41,7 +41,7 @@ body {
   
   .two{
     flex-grow: 1;
-    background-image: url('/images/image-header-desktop.jpg');
+    background-image: url('images/image-header-desktop.jpg');
     border-radius: 0 10px 10px 0;
     background-size: cover;
     background-blend-mode: overlay;
